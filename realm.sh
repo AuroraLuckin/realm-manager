@@ -25,10 +25,10 @@ show_menu() {
     clear
     echo "            欢迎使用realm一键转发脚本"
     echo " ———————————— realm版本v2.7.0 ————————————"
-    echo " 
+    echo "     修改by：Azimi    修改日期：2024/12/1"
     echo "     修改内容：1.修改查看转发规则内容更加清晰"
-    echo "             2.添加/删除规则后自动重启服务"
-    echo "              3.更新realm版本至2.7.0"
+    echo "               2.添加/删除规则后自动重启服务"
+    echo "               3.更新realm版本至2.7.0"
     echo "     更新脚本请先删除脚本 rm realm.sh"
     echo "     如果启动失败请检查 /root/realm/config.toml下有无多余配置或者卸载后重新配置"
     echo "     仓库：https://github.com/qqrrooty/EZrealm"
